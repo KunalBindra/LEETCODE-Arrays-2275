@@ -38,5 +38,3 @@ Thus, the result is `2`.
 ### Performance:
 - **Time Complexity**: \(O(n \times 24)\), where \(n\) is the size of the `candidates` array.
 - **Space Complexity**: \(O(1)\), since only a few variables are used.
-
-Would you like help optimizing or testing this implementation?
